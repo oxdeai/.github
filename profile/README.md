@@ -42,10 +42,10 @@ OxDeAI defines signed protocol artifacts and an enforcement model that allow a s
 
 Core protocol artifacts:
 
-* `AuthorizationV1` — a signed authorization decision for one execution attempt
-* `DelegationV1` — scoped delegation that cannot expand parent authority
-* `SignedKRLV1` — signed key revocation list
-* `canonicalization-v1` — deterministic serialization for signatures and hashes
+* `AuthorizationV1` - a signed authorization decision for one execution attempt
+* `DelegationV1` - scoped delegation that cannot expand parent authority
+* `SignedKRLV1` - signed key revocation list
+* `canonicalization-v1` - deterministic serialization for signatures and hashes
 
 Core enforcement model:
 
